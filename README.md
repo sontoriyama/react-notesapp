@@ -1,4 +1,4 @@
-## React Tasks Localstorage
+## React Tasks Localstorage -- es guarda a localstorage
 
 ![](./docs/localhost_3000__%20(1).png)
 
