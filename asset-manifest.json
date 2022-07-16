@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-tasksapp-localstorage/static/css/main.0bbba82f.css",
-    "main.js": "/react-tasksapp-localstorage/static/js/main.cbf08df2.js",
-    "index.html": "/react-tasksapp-localstorage/index.html",
-    "main.0bbba82f.css.map": "/react-tasksapp-localstorage/static/css/main.0bbba82f.css.map",
-    "main.cbf08df2.js.map": "/react-tasksapp-localstorage/static/js/main.cbf08df2.js.map"
+    "main.css": "/react-notesapp/static/css/main.0bbba82f.css",
+    "main.js": "/react-notesapp/static/js/main.73a98b29.js",
+    "index.html": "/react-notesapp/index.html",
+    "main.0bbba82f.css.map": "/react-notesapp/static/css/main.0bbba82f.css.map",
+    "main.73a98b29.js.map": "/react-notesapp/static/js/main.73a98b29.js.map"
   },
   "entrypoints": [
     "static/css/main.0bbba82f.css",
-    "static/js/main.cbf08df2.js"
+    "static/js/main.73a98b29.js"
   ]
 }
