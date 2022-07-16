@@ -1,4 +1,4 @@
-## React Tasks Localstorage -- es guarda a localstorage
+## React Tasks Localstorage -- es guarda a localstorage. Gracias Fazt
 
 ![](./docs/localhost_3000__%20(1).png)
 
